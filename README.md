@@ -1,4 +1,4 @@
-# Predicting_Antibiotic_Resistance_Using_Genomic_Data_and_Machine_Learning
+# # Predicting Antibiotic Resistance Using Genomic Data and Machine Learning
 
 ## 👨‍🔬 Team Members
 - **Karthik R S**  
